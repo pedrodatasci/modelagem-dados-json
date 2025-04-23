@@ -100,8 +100,8 @@ Após rodar o projeto, você pode acessar os dados via ferramentas como DBeaver 
 | Host      | localhost    |
 | Porta     | 5432         |
 | Banco     | computers_db |
-| Usuário   | postgres     |
-| Senha     | postgres     |
+| Usuário   | admin        |
+| Senha     | admin        |
 
 ---
 
